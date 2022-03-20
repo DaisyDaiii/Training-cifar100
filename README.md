@@ -1,2 +1,2 @@
 # Training-cifar100
-Implement the classifi- cation algorithm on the cigar100 data set
+Implement the classification algorithm on the cifar100 data set
